@@ -1,4 +1,4 @@
-## Welcome!
+## Hai peepz!
 
 🌱 I’m currently learning to navigate GitHub to be able to create a Digital Garden via Obsidian.
 When all is set in place, this space will be used to share, generate and interlink ideas for my (bigger) projects.
