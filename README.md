@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome!
+
+🌱 I’m currently learning to navigate GitHub to be able to create a Digital Garden via Obsidian.
+When all is set in place, this space will be used to share, generate and interlink ideas for my (bigger) projects.
+
+Let's brainstorm soon,
+
+MZ
+
 
 <!--
 **Meta-Zunderling/Meta-Zunderling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
